@@ -1,0 +1,15 @@
+Source: lua-resty-websocket
+Section: interpreters
+Priority: optional
+Maintainer: Hiroshi Miura <miurahr@linux.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.8.2
+Homepage: http://agentzh.org
+Vcs-Git: git://github.com/agentzh/lua-resty-websocket.git
+Vcs-Browser: https://github.com/agentzh/lua-resty-websocket
+
+Package: liblua5.1-resty-websocket
+Architecture: all
+Depends: ${shlibs:Depends}
+Description: Lua WebSocket implementation for the ngx_lua module 
+

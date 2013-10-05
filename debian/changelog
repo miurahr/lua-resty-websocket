@@ -1,0 +1,6 @@
+lua-resty-websocket (0.01-0) unstable; urgency=low
+
+  * Initial release.
+
+ -- Hiroshi Miura <miurahr@linux.com>  Sat, 05 Oct 2013 13:42:14 +0900
+

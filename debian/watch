@@ -1,0 +1,5 @@
+# test this watch file using:
+# uscan --watchfile debian/watch --upstream-version 0.0.1 --package lua-resty-websocket
+#
+version=3
+http://githubredir.debian.net/github/agentzh/lua-resty-websocket (.+).tar.gz
